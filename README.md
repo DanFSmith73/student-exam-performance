@@ -36,3 +36,7 @@ study habits and different exam results.
 - seaborn
 - statsmodels
 - numpy
+
+
+## Blog Post
+The blog can be viewed here: https://hackmd.io/@7gRRthGLRiSFFf1rFiLrSg/BkWVu8w0Zg
